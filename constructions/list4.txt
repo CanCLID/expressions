@@ -1,4 +1,7 @@
 份	卷	gyun2
+兜	菜	coi3
+兜	飯	faan6
+兜	餸	sung3
 幅	圖	tou4
 幅	相	soeng2
 枝	水	seoi2
@@ -8,6 +11,13 @@
 版	紙	zi2
 盒	飯	faan6
 盒	餸	sung3
+碗	水	seoi2
+碗	菜	coi3
+碗	飯	faan6
+碗	餸	sung3
+碟	菜	coi3
+碟	飯	faan6
+碟	餸	sung3
 篇	文	man2
 部	機	gei1
 部	電單車	din6 daan1 ce1
