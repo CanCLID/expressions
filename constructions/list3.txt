@@ -101,6 +101,8 @@ dau6 deng1	豆釘
 dau6 fu6	豆腐
 dau6 fu6 faa1	豆腐花
 dau6 gok3	豆角
+dau6 pok1	豆卜
+dau6 zoeng1	豆漿
 dei6 caan2	地產
 dei6 tit3	地鐵
 dei6 tit3 fei1	地鐵飛
@@ -469,6 +471,7 @@ so1 faa2	梳化
 so1 faa2	梳化
 soeng1 coeng4	商場
 soeng1 fung1	傷風
+sou1 gan1	鬚根
 sou3 baa2	掃把
 syu1	書
 syu1 baau1	書包
@@ -519,9 +522,10 @@ zam2 tau4	枕頭
 zam2 tau4 doi2	枕頭袋
 zang1 zap1	爭執
 zau2 long2	走廊
+ze1	遮
 zeoi2	嘴
 zeoi2 gok3	嘴角
-zeon1	遮
+zeon1	樽
 zi2	紙
 zi2 fai1	指揮
 zi2 gan1	紙巾
