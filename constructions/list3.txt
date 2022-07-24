@@ -77,6 +77,7 @@ cong4 juk2	牀褥
 cong4 juk2	牀褥
 cou1 hau2	粗口
 cou2	草
+cung1 loeng4 jik6	沖涼液
 cung4	蟲
 cyu5	柱
 cyun1	村
@@ -112,12 +113,15 @@ deng1	釘
 din6 ce1	電車
 din6 ci4	電池
 din6 daan1 ce1	電單車
+din6 faan6 bou1	電飯煲
 din6 laam6	電纜
 din6 lik6	電力
 din6 lou6	電路
+din6 nyun5 lou4	電暖爐
 din6 nou5	電腦
 din6 si6	電視
 din6 si6 gei1	電視機
+din6 si6 gwai6	電視櫃
 din6 si6 toi4	電視台
 din6 tai1	電梯
 din6 toi4	電台
@@ -147,6 +151,7 @@ fan2 caat2	粉刷
 fat6	佛
 fat6 zoeng6	佛像
 fei1 gei1	飛機
+fei1 gei1 caan1	飛機餐
 fei4 zai2	肥仔
 fo1 gei6	科技
 fo2	火
@@ -173,6 +178,8 @@ fut3 tiu2 min6	闊條麵
 gaa1 haau6 wui2	家校會
 gaa1 ze1	家姐
 gaa1 zoeng2	家長
+gaa3	假
+gaa3 kei4	假期
 gaai1 si5	街市
 gaai3 haan6	界限
 gaai3 min2	界面
@@ -211,14 +218,21 @@ gu2 piu3	股票
 gu3 zoeng3	故障
 gun2	管
 gun2 lei5 cyu3	管理處
+gung1 ci3	公廁
 gung1 cing4	工程
+gung1 mou6	公務
+gung1 mou6	公墓
 gung1 fo3	功課
 gung1 gai1	公雞
 gung1 geoi6	工具
 gung1 jyun2	公園
+gung1 zung3 gaa3 kei4	公眾假期
 gwaa1 zi2	瓜子
 gwaai2 zoeng2	拐杖
 gwaan1 oi3 zo6	關愛座
+gwai1	龜
+gwai2	鬼
+gwai6 	櫃
 gwai6 toi2	櫃枱
 gwai6 tung2	櫃桶
 gwok3 gaa1	國家
@@ -255,9 +269,11 @@ hau6 lau4 tai1	後樓梯
 hau6 saang1 zai2	後生仔
 hei2 cung5 gei1	起重機
 hei3 jyun2	戲院
+hei3 zaa3 wo1	氣炸鍋
 hei3 seoi2	汽水
 hing1 dai6	兄弟
 hing3 din2	慶典
+ho6 ci4	賀辭
 hoi2 pong4	海旁
 hok6 haau6	學校
 hok6 jyun2	學院
@@ -314,7 +330,7 @@ laam2 zam2	攬枕
 laam4 kau4	籃球
 laan4 gon1	欄杆
 laang5 hei3	冷氣
-laang5 hei3	冷氣
+laang5 hei3	fong2	冷氣房
 laang5 hei3 gei1	冷氣機
 laap6 saap3 caan2	垃圾鏟
 laap6 saap3 doi2	垃圾袋
@@ -330,6 +346,7 @@ ling5 zau6	領袖
 lip1	𨋢
 lit6 ce1	列車
 lo4 baak6 gou1	蘿蔔糕
+loeng4 fan2	涼粉
 long6 saam1 gaa2	晾衫架
 lou5 fu2	老虎
 lou5 jan4 gaa1	老人家
@@ -338,12 +355,18 @@ lou5 syu2	老鼠
 lou6 bok3	路壆
 lou6 gin1	路肩
 lou6 gwai2	路軌
+lung2	龍
+lung4 mun4	龍門
+lung4 mun4 gaa2	龍門架
+lung4 uk1	籠屋
 luk6 caa4	綠茶
 luk6 jam1	錄音
 maa4 zoek2	麻雀
 maa5 laai1 gou1	馬拉糕
 maau1	貓
 maau1 zai2	貓仔
+mai1	咪
+mai1 biu1	咪錶
 mai5 sin3	米線
 mak6 jyu4	墨魚
 man2	文
@@ -388,6 +411,7 @@ ning2 caa4	檸茶
 ning2 seoi2	檸水
 ning4 mung1	檸檬
 no6 mai5	糯米
+nou5	腦
 nyun5 seoi2 doi2	暖水袋
 paai2	牌
 paai4 gwat1	排骨
@@ -413,8 +437,13 @@ saam1 gaa2	衫架
 saang1 gwo2	生果
 saang1 jat6	生日
 saang1 zin1 baau1	生煎包
+sai1	篩
 sai1 do1	西多
 sai1 do1 si2	西多士
+sai2 min6 jyu5	洗面乳
+sai2 min6 naai5	洗面奶
+sai2 min6 seoi2	洗面水
+sai2 tau4 seoi2	洗頭水
 sai3 kwan2	細菌
 sai3 lou2	細佬
 sai3 mui2	細妹
@@ -423,6 +452,7 @@ san1 tai2	身體
 san4	神
 san4 sin1	神仙
 sap1 can2	濕疹
+sau1 jam1 gei1	收音機
 sau1 ngan2	收銀
 sau1 ngan2 gei1	收銀機
 sau2 bei3	手臂
@@ -432,6 +462,8 @@ sau2 zi2	手指
 sau2 zi2 gaap3	手指甲
 sau6 baau1	壽包
 se5 wui2	社會
+sek6	石
+sek6 zai2	石仔
 seoi2	水
 seoi2 baa1	水吧
 seoi2 ce1	水車
@@ -455,6 +487,7 @@ si4 gaan3	時間
 si5 keoi1	市區
 si6 do1 be1 lei2	士多啤梨
 sin3	扇
+sin3 jip2	扇葉
 sin3 lou6	線路
 sing1	星
 sing1 gong3 gei1	升降機
@@ -499,6 +532,7 @@ tung1 cap1 faan2	通緝犯
 tung4 gwan1	童軍
 tyun4 deoi2	團隊
 uk1	屋
+uk1 kei2	屋企
 uk1 deng2	屋頂
 waat6 baan2	滑板
 wai2 jyun4 wui2	委員會
@@ -539,10 +573,12 @@ zin3 zang1	戰爭
 zing3 gyun3	證券
 zing3 zik1	正職
 zip3 baan1 jan4	接班人
+zip3 dang3	摺凳
 zit3	折
 zoek2	雀
 zoek3 zai2	雀仔
 zoeng2	獎
+zoeng2 paai4	獎牌
 zoeng2 soeng2	獎賞
 zoeng2 ze2	長者
 zoeng2 zong6	獎狀
